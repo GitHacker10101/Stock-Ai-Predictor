@@ -69,4 +69,4 @@ else:
     st.write(fig2)
 
 
-st.write('Made By Krishnav Jain🏀')
+st.write('Made By Krishnav Jain, Aryan Kapoor And Vedant Jain')
